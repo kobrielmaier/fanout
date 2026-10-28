@@ -44,3 +44,6 @@ next-env.d.ts
 .env*.local
 _Social-Media-Engine/
 *.tsbuildinfo
+
+# graphify skill output — generated graph + AST caches, not source.
+graphify-out/
